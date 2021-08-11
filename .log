@@ -1,0 +1,20 @@
+2021-08-11 12:42:50,401 [23404] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-08-11 12:42:50,401 [23404] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-08-11 12:42:50,402 [23404] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-08-11 12:42:50,404 [23404] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-08-11 12:42:50,404 [23404] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-08-11 12:42:50,405 [23404] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-08-11 12:42:59,558 [23404] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: bzr
+2021-08-11 12:42:59,563 [23404] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: git
+2021-08-11 12:42:59,568 [23404] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: hg
+2021-08-11 12:42:59,572 [23404] DEBUG    pip._internal.vcs.versioncontrol:216: [JupyterRequire] Registered VCS backend: svn
+2021-08-11 12:43:00,554 [23404] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-08-11 12:43:00,554 [23404] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-08-11 12:43:00,554 [23404] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-08-11 12:43:00,559 [23404] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-08-11 12:43:00,560 [23404] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-08-11 12:43:00,561 [23404] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-08-11 12:43:01,095 [23404] WARNING  pip._internal.metadata.base:105: [JupyterRequire] Ignoring invalid distribution -lvmlite (d:\usuarios\jmunopac\appdata\roaming\python\python38\site-packages)
+2021-08-11 12:43:01,096 [23404] WARNING  pip._internal.metadata.base:105: [JupyterRequire] Ignoring invalid distribution -illow (d:\usuarios\jmunopac\appdata\roaming\python\python38\site-packages)
+2021-08-11 12:43:01,097 [23404] WARNING  pip._internal.metadata.base:105: [JupyterRequire] Ignoring invalid distribution - (d:\usuarios\jmunopac\appdata\roaming\python\python38\site-packages)
+2021-08-11 12:43:01,098 [23404] WARNING  pip._internal.metadata.base:105: [JupyterRequire] Ignoring invalid distribution -atplotlib (d:\usuarios\jmunopac\appdata\roaming\python\python38\site-packages)
